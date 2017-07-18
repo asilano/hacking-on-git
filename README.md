@@ -1,1 +1,1 @@
-# hacking-on-git
+Seeing how grungy bits of git work  
